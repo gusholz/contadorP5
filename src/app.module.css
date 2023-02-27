@@ -4,7 +4,7 @@
 }
   
 .bgTop{
-    background-image: url(./public/images/backgroundImageTop.jpg);
+    background-image: url(../public/images/backgroundImageTop.jpg);
     background-size: 100% auto;
     background-repeat: no-repeat;
     transform: translateY(8vh);
@@ -23,7 +23,7 @@
   
   @media (max-width:800px) {
     .bgTop{
-      background-image: url(./public/images/backgroundTopMobile.jpg);
+      background-image: url(../public/images/backgroundTopMobile.jpg);
       background-size: 100% auto;
       background-repeat: no-repeat;
       
