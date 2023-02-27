@@ -1,0 +1,32 @@
+{
+  "name": "contadorp5",
+  "version": "1.0.0",
+  "description": "My first React App\r This project was made with the intent of developing my skills and usage of the React library. It was bootstrapped with Create React App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusholz/contadorP5.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gusholz/contadorP5/issues"
+  },
+  "homepage": "https://github.com/gusholz/contadorP5#readme",
+  "dependencies": {
+    "@nextcss/reset": "^0.2.4-beta",
+    "next": "^13.2.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "18.14.2",
+    "@types/react": "18.0.28",
+    "typescript": "4.9.5"
+  }
+}
