@@ -1,6 +1,6 @@
 import styles from './app.module.css';
-import Counter from './src/components/counter/counter';
-import Feed from './src/components/feed/feed';
+import Counter from './components/counter/counter';
+import Feed from './components/feed/feed';
 import '@nextcss/reset';
 
 export default function App() {
